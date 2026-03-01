@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Transport.Api/Transport.Api.csproj" />
+  <Project Path="Transport.Application/Transport.Application.csproj" />
+  <Project Path="Transport.Domain/Transport.Domain.csproj" />
+  <Project Path="Transport.Infrastructure/Transport.Infrastructure.csproj" />
+</Solution>
